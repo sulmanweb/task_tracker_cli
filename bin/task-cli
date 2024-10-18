@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require_relative '../lib/task_tracker_cli'
+
+TaskCLI.run
