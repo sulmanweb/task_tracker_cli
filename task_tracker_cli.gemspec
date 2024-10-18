@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/sulmanweb/task_tracker_cli"
   spec.license       = "MIT"
 
-  spec.files         = Dir["lib/**/*.rb"] + Dir["bin/*"] + ["task_tracker_cli.gemspec"]
+  spec.files         = Dir["lib/**/*.rb"] + Dir["bin/*"] + ["task_tracker_cli.gemspec", "README.md"]
   spec.bindir        = "bin"
   spec.executables   = ["task-cli"]
   spec.require_paths = ["lib"]

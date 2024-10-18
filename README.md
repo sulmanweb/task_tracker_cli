@@ -1,5 +1,7 @@
 # Task Tracker CLI
 
+Built by [Sulman Baig](https://www.sulmanweb.com)
+
 > This project requirements are from [Task Tracker Roadmap.sh](https://roadmap.sh/projects/task-tracker)
 
 Task Tracker CLI is a Ruby gem that provides a command-line interface for managing your tasks and to-do list. It allows you to easily add, update, delete, and track the status of your tasks directly from the terminal.
