@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "task_tracker_cli"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["Sulman Baig"]
   spec.email         = ["sulmanweb@gmail.com"]
 
