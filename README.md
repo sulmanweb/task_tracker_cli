@@ -1,5 +1,7 @@
 # Task Tracker CLI
 
+[![Gem Version](https://badge.fury.io/rb/task_tracker_cli.svg)](https://badge.fury.io/rb/task_tracker_cli)
+
 Built by [Sulman Baig](https://www.sulmanweb.com)
 
 > This project requirements are from [Task Tracker Roadmap.sh](https://roadmap.sh/projects/task-tracker)
